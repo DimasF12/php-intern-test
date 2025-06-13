@@ -2,10 +2,7 @@
 untuk submission pertama saya berikan nama test.php
 
 berikut kodenya jika kesulitan mencari test.php
-"""
-slss
-"""
-""
+```
 <?php
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
@@ -22,4 +19,4 @@ for ($i = 0; $i < $size; $i++) {
     }
     echo PHP_EOL;
 }
-""
+```
